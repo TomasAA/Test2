@@ -1,5 +1,6 @@
 name: client
 dependencies:
   angular: 0.10.0
-
+  di: '>=0.0.37 <0.0.39'
+  
   
