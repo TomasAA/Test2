@@ -1,11 +1,14 @@
 [
     {
-        "name": "Robert"
+        "name": "Robert",
+        "points": 100
     },
     {
-        "name": "Tomas"
+        "name": "Tomas",
+        "points": 200
     },
     {
-        "name": "Mikael"
+        "name": "Mikael",
+        "points": 300
     }
 ]

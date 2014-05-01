@@ -1,0 +1,14 @@
+[
+    {
+        "name": "s1",
+        "state": "off"
+    },
+    {
+        "name": "s2",
+        "state": "on"
+    },
+    {
+        "name": "s3",
+        "state": "off"
+    }
+]
